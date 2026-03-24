@@ -1,16 +1,11 @@
 # 2526_PRO_u7_7.1.horario
 
 
-# 2526_PRO_u7_7.1.horario
-
-
-Perfecto. Esa práctica encaja muy bien con los **CE a, b y c del RA5**, porque obliga al alumnado a:
+Esa práctica encaja bien con los **CE a, b y c del RA5**, porque obliga al alumnado a:
 
 * **leer datos por consola**,
 * **dar formato a la salida**,
 * y **usar correctamente los mecanismos de entrada/salida del lenguaje**.
-
-Te propongo una redacción clara, lista para entregar al alumnado.
 
 ---
 
