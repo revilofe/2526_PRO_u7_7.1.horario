@@ -293,8 +293,6 @@ Se valorará especialmente:
 * la claridad de los mensajes,
 * y el formato aplicado a la salida final para que la tabla sea legible y ordenada.
 
-Sí, ese diseño está bien planteado y, de hecho, tiene una idea muy sana desde el punto de vista didáctico y de diseño: **separar responsabilidades**.
-
 La clave de tu propuesta es que el programa no mezcle en un mismo bloque:
 
 * la **lectura de datos**,
